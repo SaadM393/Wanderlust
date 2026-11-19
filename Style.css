@@ -35,7 +35,7 @@ body {
 
 .header-container {
     height: 312px;
-    padding: 0 94px 0 63px;
+    padding: 0 94px 0 70px;
 
     display: flex;
     align-items: center;
@@ -170,7 +170,7 @@ body {
   line-height: 1.175;
   letter-spacing: -1.25px;
   word-spacing: -10px;
-  color: var(--text-white);
+  color: var(--text);
 }
 
 .hero-description {
@@ -198,11 +198,11 @@ body {
 /* DESTINATION HEADING CONTAINER */
 
 .destination-container {
-  margin: 0 65px;
+  margin: 0 71px;
 }
 
 .section-header {
-  margin: 66px 0 245px 0;
+  margin: 55px 0 245px 0;
   text-align: center;
 }
 
@@ -223,7 +223,7 @@ body {
 .destination-grid {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  gap: 110px;
+  gap: 112px;
 }
 
 .destination-card {
